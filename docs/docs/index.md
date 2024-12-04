@@ -47,7 +47,7 @@ If you see usr/local/bin in the output then you're good to go.
 3. Clone the repository (if you haven't already) by opening a Terminal window (or CMD with admin permissions) and then typing in this:
 
 ```
-git clone https://github.com/coleam00/bolt.new-any-llm.git
+git clone https://github.com/ezeslucky/Bolt.git
 ```
 
 3. Rename .env.example to .env.local and add your LLM API keys. You will find this file on a Mac at "[your name]/bold.new-any-llm/.env.example". For Windows and Linux the path will be similar.
