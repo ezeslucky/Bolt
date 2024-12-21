@@ -2,14 +2,7 @@
 
 First off, thank you for considering contributing to oTToDev! This fork aims to expand the capabilities of the original project by integrating multiple LLM providers and enhancing functionality. Every contribution helps make oTToDev a better tool for developers worldwide.
 
-## 📋 Table of Contents
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Pull Request Guidelines](#pull-request-guidelines)
-- [Coding Standards](#coding-standards)
-- [Development Setup](#development-setup)
-- [Deploymnt with Docker](#docker-deployment-documentation)
-- [Project Structure](#project-structure)
+
 
 ## Code of Conduct
 
@@ -29,10 +22,9 @@ This project and everyone participating in it is governed by our Code of Conduct
 3. Write your code
 4. Submit a pull request
 
-### ✨ Becoming a Core Contributor
-We're looking for dedicated contributors to help maintain and grow this project. If you're interested in becoming a core contributor, please fill out our [Contributor Application Form](https://forms.gle/TBSteXSDCtBDwr5m7).
 
-## Pull Request Guidelines
+
+
 
 ### 📝 PR Checklist
 - [ ] Branch from the main branch
